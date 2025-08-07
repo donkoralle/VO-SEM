@@ -39,7 +39,7 @@ You are free to:
 ## 🙋 Contributions & Feedback
 
 **For the Github-nerds:** Feel free to open an issue or pull request if you would like to suggest improvements, corrections, or translations.
-**For everyone else:** Please reach out via email [karl.hoeferl@imc.ac.at](mailto:karl.hoeferl@imc.ac.at) if you have any feedback, questions, or suggestions regarding the materials.
+**For everyone else:** Please reach out via email ([karl.hoeferl@imc.ac.at](mailto:karl.hoeferl@imc.ac.at)) if you have any feedback, questions, or suggestions regarding the materials.
 
 ---
 
