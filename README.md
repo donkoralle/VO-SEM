@@ -20,7 +20,7 @@ This repository contains materials used in the lecture **"Sustainability & Envir
 - **Level:** Bachelor  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 - **Version:** v1.0 (August 2025)  
-- **DOI:** [To be added via Zenodo after release]  
+- **DOI:** [![DOI](https://zenodo.org/badge/1033668159.svg)](https://doi.org/10.5281/zenodo.16758603) 
 - **Keywords:** sustainability, management, iso, emas, sea, eia
 
 ---
