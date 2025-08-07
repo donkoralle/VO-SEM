@@ -1,4 +1,4 @@
-# 📘 Sustainability Management – Lecture Materials
+# 📘 Lecture Materials: Sustainability and Environmental Management
 
 This repository contains materials used in the lecture **"Sustainability & Environmental Management"** taught in SS 25 at the [IMC University of Applied Sciences Krems](https://www.imc.ac.at/). The materials are shared to support learning, collaboration, and adaptation by educators, students, practitioners, and of course: you 😉.
 
